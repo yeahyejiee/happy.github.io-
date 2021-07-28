@@ -37,6 +37,7 @@ I experience using python, R, MySql, Qgis, Arcgis. I am interested in machine le
 
  ###  studying Tool & Certificate
 | Date |  Contents  | Organization |
+| ------ | ------ | ------ |
 |2021.01|컴퓨터활용능력 2급 |대한상공회의소|
 |2020.09|사회조사분석사 2급 |한국산업인력공단|
 |2020.06| SQLD |한국데이터진흥원|
